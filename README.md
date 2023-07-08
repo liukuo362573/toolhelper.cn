@@ -1,2 +1,3 @@
 # toolhelper.cn
-toolhelper.cn 问题反馈和修复
+
+如果有问题或者反馈，请提 Issues。
